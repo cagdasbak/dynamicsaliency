@@ -1,33 +1,22 @@
-# OpenSALICON
+# Two-Stream Convolutional Networks for Dynamic Saliency Prediction
 
-OpenSALICON is an open source implementation of the SALICON saliency model cited below. 
-> Huang, X., Shen, C., Boix, X., & Zhao, Q. (2015). SALICON: Reducing the Semantic Gap in Saliency Prediction by Adapting Deep Neural Networks. In Proceedings of the IEEE International Conference on Computer Vision (pp. 262-270).
+This repository is an open source implementation of Two-Stream Convolutional Networks for Dynamic Saliency Prediction.
 
-### Citing OpenSALICON
+### Abstract
+In recent years, visual saliency estimation in images has attracted much attention in the computer vision community.
+However, predicting saliency in videos has received relatively little attention. Inspired by the recent success of deep
+convolutional neural networks based static saliency models, in this work, we study two different two-stream convolutional
+networks for dynamic saliency prediction. To improve the generalization capability of our models, we also
+introduce a novel, empirically grounded data augmentation technique for this task. We test our models on DIEM
+dataset and report superior results against the existing models. Moreover, we perform transfer learning experiments on
+SALICON, a recently proposed static saliency dataset, by finetuning our models on the optical flows estimated from static images. Our experiments show that taking motion into account in this way can be helpful for static saliency estimation.
 
-A technical report describing our implementation is provided (salicon.pdf). If you find OpenSALICON useful in your research, please cite our technical report:
-````
-@TECHREPORT {christopherleethomas2016,
-    author      = {Christopher Lee Thomas},
-    title       = {OpenSalicon: An Open Source Implementation of the Salicon Saliency Model},
-    institution = {University of Pittsburgh},
-    year        = {2016},
-    number      = {TR-2016-02}
-}
-````
+### Proposed Two-Stream Network Architectures
+![late_fusion](https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/figs/paper.jpg)
+![early_fusion](https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/figs/paper.jpg)
+
     
-### Using OpenSALICON
-
-##### Requirements: software
-1. Requirements for `Caffe` and `pycaffe` (see: [Caffe installation instructions](http://caffe.berkeleyvision.org/installation.html))
-
-  **Note:** Caffe *must* be built with support for Python layers!
-
-  ```make
-  # In your Makefile.config, make sure to have this line uncommented
-  WITH_PYTHON_LAYER := 1
-  ```
-2. Python packages you might not have: `numpy`, `PIL`, `matplotlib`, `scipy` 
+### Using instructions
 
 ##### Basic Demo (producing saliency maps from images)
 1. Edit the `Salicon.py` file to include the path to your caffe python install where indicated (i.e. update the line below to the path containing your caffe installation):
@@ -63,3 +52,16 @@ Use the finetune_salicon.py file to train your own model. See our technical repo
 #### Parting Words
 
 OpenSALICON performs on-par with the results produced by the official SALICON demo website when compared using AUC scores to ground truth human fixations. If you have any questions, discover any bugs, or make improvements to this code, please feel free to create an issue or push request.
+
+### Citation
+
+Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publications if it helps your research:
+````
+@article{bak2016two,
+  title={Two-Stream Convolutional Networks for Dynamic Saliency Prediction},
+  author={Bak, {\c{C}}a{\u{g}}da{\c{s}} and Erdem, Aykut and Erdem, Erkut},
+  journal={arXiv preprint arXiv:1607.04730},
+  year={2016}
+}
+
+````
