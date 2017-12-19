@@ -53,7 +53,7 @@ Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publicat
 [AykutErdem-web]: https://vision.cs.hacettepe.edu.tr/people-detail.php?id=4
 
 [CagdasBak-photo]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/CagdasBak-photo.png "Cagdas Bak"
-[AysunKocak-photo]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/AysunKocak-photo.png "Aysun Kocak"
+[AysunKocak-photo]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/AysunKacak-photo.png "Aysun Kocak"
 [ErkutErdem-photo]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/ErkutErdem-photo.png "Erkut Erdem"
 [AykutErdem-photo]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/AykutErdem-photo.png "Aykut Erdem"
 
