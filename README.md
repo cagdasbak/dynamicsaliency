@@ -47,10 +47,10 @@ Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publicat
 |:-:|:-:|:-:|:-:|
 | [Cagdas Bak][CagdasBak-web]  | [Aysun Kocak][AysunKocak-web]  |  [Erkut Erdem][ErkutErdem-web] | [Aykut Erdem][AykutErdem-web]   |
 
-[CagdasBak-web]: https://www.insight-centre.org/users/kevin-mcguinness
-[AysunKocak-web]: https://imatge.upc.edu/web/people/elisa-sayrol
-[ErkutErdem-web]: https://www.insight-centre.org/users/noel-oconnor
-[AykutErdem-web]: https://imatge.upc.edu/web/people/xavier-giro
+[CagdasBak-web]: https://vision.cs.hacettepe.edu.tr/people-detail.php?id=37
+[AysunKocak-web]: https://vision.cs.hacettepe.edu.tr/people-detail.php?id=10
+[ErkutErdem-web]: https://vision.cs.hacettepe.edu.tr/people-detail.php?id=5
+[AykutErdem-web]: https://vision.cs.hacettepe.edu.tr/people-detail.php?id=4
 
 [CagdasBak-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/JuntingPan.jpg "Cagdas Bak"
 [AysunKocak-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/KevinMcGuinness.jpg "Aysun Kocak"
