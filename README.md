@@ -13,6 +13,7 @@ Computational saliency models for still images have gained significant popularit
 
 ![networks](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/networks.png)
 
+(a) The baseline single stream saliency networks. While SSNet utilizes only spatial (appearance) information and accepts still video frames, TSNet exploits only temporal information whose input is given in the form of optical flow images. (b) The proposed two-stream spatio-temporal saliency networks. STSMaxNet performs fusion by using element-wise max fusion, whereas STSConvNet employs convolutional fusion after the fifth convolution layers.
     
 ### Using instructions
 
