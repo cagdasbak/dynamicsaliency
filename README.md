@@ -42,4 +42,18 @@ Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publicat
 ````
 
 ### Contact
+| ![Cagdas Bak][CagdasBak-photo]  | ![Aysun Kocak][AysunKocak-photo]  | ![Erkut Erdem][ErkutErdem-photo]  | ![Aykut Erdem][AykutErdem-photo]  |
+|:-:|:-:|:-:|:-:|
+| [Cagdas Bak][CagdasBak-web]  | [Aysun Kocak][AysunKocak-web]  |  [Erkut Erdem][ErkutErdem-web] | [Aykut Erdem][AykutErdem-web]   |
+
+[CagdasBak-web]: https://www.insight-centre.org/users/kevin-mcguinness
+[AysunKocak-web]: https://imatge.upc.edu/web/people/elisa-sayrol
+[ErkutErdem-web]: https://www.insight-centre.org/users/noel-oconnor
+[AykutErdem-web]: https://imatge.upc.edu/web/people/xavier-giro
+
+[CagdasBak-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/JuntingPan.jpg "Cagdas Bak"
+[AysunKocak-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/KevinMcGuinness.jpg "Aysun Kocak"
+[ErkutErdem-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/ElisaSayrol.jpg "Erkut Erdem"
+[AykutErdem-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/NoelOConnor.jpg "Aykut Erdem"
+
 If you have any question, send an e-mail at cagdasbak@hotmail.com
