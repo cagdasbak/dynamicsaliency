@@ -42,7 +42,8 @@ Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publicat
 ````
 
 ### Contact
-| ![Cagdas Bak][CagdasBak-photo]  | ![Aysun Kocak][AysunKocak-photo]  | ![Erkut Erdem][ErkutErdem-photo]  | ![Aykut Erdem][AykutErdem-photo]  |
+
+![Cagdas Bak][CagdasBak-photo]  | ![Aysun Kocak][AysunKocak-photo]  | ![Erkut Erdem][ErkutErdem-photo]  | ![Aykut Erdem][AykutErdem-photo] |
 |:-:|:-:|:-:|:-:|
 | [Cagdas Bak][CagdasBak-web]  | [Aysun Kocak][AysunKocak-web]  |  [Erkut Erdem][ErkutErdem-web] | [Aykut Erdem][AykutErdem-web]   |
 
