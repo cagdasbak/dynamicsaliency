@@ -37,12 +37,18 @@ SALICON, a recently proposed static saliency dataset, by finetuning our models o
 
 Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publications if it helps your research:
 ````
-@article{bak2016two,
-  title={Two-Stream Convolutional Networks for Dynamic Saliency Prediction},
-  author={Bak, {\c{C}}a{\u{g}}da{\c{s}} and Erdem, Aykut and Erdem, Erkut},
-  journal={arXiv preprint arXiv:1607.04730},
-  year={2016}
-}
+@ARTICLE{8119879, 
+author={C. Bak and A. Kocak and E. Erdem and A. Erdem}, 
+journal={IEEE Transactions on Multimedia}, 
+title={Spatio-Temporal Saliency Networks for Dynamic Saliency Prediction}, 
+year={2017}, 
+volume={PP}, 
+number={99}, 
+pages={1-1}, 
+keywords={Computational modeling;Dynamics;Feature extraction;Predictive models;Videos;Visualization;deep learning;dynamic saliency}, 
+doi={10.1109/TMM.2017.2777665}, 
+ISSN={1520-9210}, 
+month={},}
 
 ````
 
