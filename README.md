@@ -13,6 +13,7 @@ dataset and report superior results against the existing models. Moreover, we pe
 SALICON, a recently proposed static saliency dataset, by finetuning our models on the optical flows estimated from static images. Our experiments show that taking motion into account in this way can be helpful for static saliency estimation.
 
 ![results](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/saliency-networks.gif)
+.right[![Right-aligned image](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/saliency-networks.gif)]
 
 ### Proposed Two-Stream Network Architectures
 
