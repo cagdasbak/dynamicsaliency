@@ -4,13 +4,7 @@ This repository is an open source [caffe](http://caffe.berkeleyvision.org/) impl
 
 ### Abstract
 
-In recent years, visual saliency estimation in images has attracted much attention in the computer vision community.
-However, predicting saliency in videos has received relatively little attention. Inspired by the recent success of deep
-convolutional neural networks based static saliency models, in this work, we study two different two-stream convolutional
-networks for dynamic saliency prediction. To improve the generalization capability of our models, we also
-introduce a novel, empirically grounded data augmentation technique for this task. We test our models on DIEM
-dataset and report superior results against the existing models. Moreover, we perform transfer learning experiments on
-SALICON, a recently proposed static saliency dataset, by finetuning our models on the optical flows estimated from static images. Our experiments show that taking motion into account in this way can be helpful for static saliency estimation.
+Computational saliency models for still images have gained significant popularity in recent years. Saliency prediction from videos, on the other hand, has received relatively little interest from the community. Motivated by this, in this work, we study the use of deep learning for dynamic saliency prediction and propose the so-called spatio-temporal saliency networks. The key to our models is the architecture of two-stream networks where we investigate different fusion mechanisms to integrate spatial and temporal information. We evaluate our models on the DIEM and UCF-Sports datasets and present highly competitive results against the existing state-of-the-art models. We also carry out some experiments on a number of still images from the MIT300 dataset by exploiting the optical flow maps predicted from these images. Our results show that considering inherent motion information in this way can be helpful for static saliency estimation.
 
 ![results](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/saliency-networks.gif)
 
