@@ -1,6 +1,7 @@
 ![logo](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/main.png)
 
-This repository is an open source [caffe](http://caffe.berkeleyvision.org/) implementation of Two-Stream Convolutional Networks for Dynamic Saliency Prediction.
+This repository is an open source [caffe](http://caffe.berkeleyvision.org/) implementation of Spatio-Temporal Saliency Networks
+for Dynamic Saliency Prediction.
 
 ### Abstract
 
