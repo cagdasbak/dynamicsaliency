@@ -52,9 +52,9 @@ Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publicat
 [ErkutErdem-web]: https://vision.cs.hacettepe.edu.tr/people-detail.php?id=5
 [AykutErdem-web]: https://vision.cs.hacettepe.edu.tr/people-detail.php?id=4
 
-[CagdasBak-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/JuntingPan.jpg "Cagdas Bak"
-[AysunKocak-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/KevinMcGuinness.jpg "Aysun Kocak"
-[ErkutErdem-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/ElisaSayrol.jpg "Erkut Erdem"
-[AykutErdem-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/NoelOConnor.jpg "Aykut Erdem"
+[CagdasBak-photo]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/CagdasBak-photo.jpg "Cagdas Bak"
+[AysunKocak-photo]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/AysunKocak-photo.jpg "Aysun Kocak"
+[ErkutErdem-photo]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/ErkutErdem-photo.jpg "Erkut Erdem"
+[AykutErdem-photo]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/AykutErdem-photo.jpg "Aykut Erdem"
 
 If you have any question, send an e-mail at cagdasbak@hotmail.com
