@@ -30,6 +30,11 @@ SALICON, a recently proposed static saliency dataset, by finetuning our models o
 
 ### Citation
 
+|  ![CVPR 2016 logo][logo-cvpr] | Paper accepted at [2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](http://cvpr2016.thecvf.com/)   |
+|:-:|---|
+
+[logo-cvpr]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/logos/cvpr2016.jpg "CVPR 2016 logo"
+
 Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publications if it helps your research:
 ````
 @article{bak2016two,
