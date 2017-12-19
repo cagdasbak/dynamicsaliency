@@ -41,7 +41,7 @@ Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publicat
 
 ````
 
-### Contact
+### Authors
 
 ![Cagdas Bak][CagdasBak-photo]  | ![Aysun Kocak][AysunKocak-photo]  | ![Erkut Erdem][ErkutErdem-photo]  | ![Aykut Erdem][AykutErdem-photo] |
 |:-:|:-:|:-:|:-:|
