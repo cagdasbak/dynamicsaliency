@@ -11,6 +11,7 @@ Computational saliency models for still images have gained significant popularit
 
 ### Proposed Two-Stream Network Architectures
 
+![networks](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/networks.png)
 ![late_fusion](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/late.png)
 ![early_fusion](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/early.png)
 
