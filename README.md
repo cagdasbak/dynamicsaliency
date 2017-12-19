@@ -35,7 +35,7 @@ SALICON, a recently proposed static saliency dataset, by finetuning our models o
 
 [logo-ieee]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/ieeel.png "IEEE logo"
 
-Please cite our [paper](https://arxiv.org/pdf/1607.04730v1.pdf) in your publications if it helps your research:
+Please cite our [paper](https://web.cs.hacettepe.edu.tr/~erkut/publications/bak_tmm2017.pdf) in your publications if it helps your research:
 ````
 @ARTICLE{8119879, 
 author={C. Bak and A. Kocak and E. Erdem and A. Erdem}, 
