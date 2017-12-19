@@ -12,6 +12,8 @@ introduce a novel, empirically grounded data augmentation technique for this tas
 dataset and report superior results against the existing models. Moreover, we perform transfer learning experiments on
 SALICON, a recently proposed static saliency dataset, by finetuning our models on the optical flows estimated from static images. Our experiments show that taking motion into account in this way can be helpful for static saliency estimation.
 
+![late_fusion](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/saliency-networks.png)
+
 ### Proposed Two-Stream Network Architectures
 
 ![late_fusion](https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/late.png)
