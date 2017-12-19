@@ -30,7 +30,7 @@ SALICON, a recently proposed static saliency dataset, by finetuning our models o
 
 ### Citation
 
-|  ![IEEE logo][logo-ieee] | Paper accepted at [2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](http://ieeexplore.ieee.org/document/8119879/)   |
+|  ![IEEE logo][logo-ieee] | Paper accepted in [IEEE Transactions on Multimedia](http://ieeexplore.ieee.org/document/8119879/)   |
 |:-:|---|
 
 [logo-ieee]: https://raw.githubusercontent.com/cagdasbak/dynamicsaliency/master/img/ieee.png "IEEE logo"
