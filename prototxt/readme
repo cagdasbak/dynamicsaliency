@@ -1,5 +1,6 @@
-Network Architectures
-SSNet : The baseline single stream saliency networks. Utilizes only spatial (appearance) information and accepts still video frames.
-TSNet : Exploits only temporal information whose input is given in the form of optical flow images. 
-STSMaxNet : Performs fusion by using element-wise max fusion.
-STSConvNet : Employs convolutional fusion after the fifth convolution layers.
+#Network Architectures#
+***********************
+- SSNet : The baseline single stream saliency networks. Utilizes only spatial (appearance) information and accepts still video frames.
+- TSNet : Exploits only temporal information whose input is given in the form of optical flow images. 
+- STSMaxNet : Performs fusion by using element-wise max fusion.
+- STSConvNet : Employs convolutional fusion after the fifth convolution layers.
